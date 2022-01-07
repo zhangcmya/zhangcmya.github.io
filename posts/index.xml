@@ -11,12 +11,12 @@
     <guid>https://zhangcmya.github.io/posts/ubuntu%E9%98%B2%E7%81%AB%E5%A2%99%E6%93%8D%E4%BD%9C/</guid>
     <description><![CDATA[查看防火墙状态 inactive状态是防火墙关闭状态 active是开启状态。 sudo ufw status 开启防火墙 sudo ufw enable 关闭防火墙 sudo ufw disable Ubuntu中其他常用的防火]]></description>
 </item><item>
-    <title>搭建Hugo博客</title>
+    <title>使用hugo&#43;LoveIt主题搭建个人博客</title>
     <link>https://zhangcmya.github.io/posts/test/</link>
     <pubDate>Thu, 30 Dec 2021 14:20:57 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://zhangcmya.github.io/posts/test/</guid>
-    <description><![CDATA[搭建Hugo博客 一. 安装Hugo brew install hugo brew install hugo]]></description>
+    <description><![CDATA[简介 博客网站是每个程序员必不可少的。因为博客如同我们的简历，可以充分让面试官或同事对你进一步的了解。同时书写博客可以让你总结自己学到的知识，]]></description>
 </item><item>
     <title>First_post</title>
     <link>https://zhangcmya.github.io/posts/first_post/</link>
